@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import TotalSales from "../components/TotalSales";
 import CustomerAdded from "../components/CustomerAdded";
-import RepaeatingCustomer from "../components/REpaeatingCustomer";
 import GeolocationComponents from "../components/Geolocation";
 import SalesOverTime from "../components/SalesOverTime";
 import Lottie from "lottie-react";
